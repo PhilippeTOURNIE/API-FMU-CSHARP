@@ -1,0 +1,4 @@
+﻿
+Commande API
+%SystemRoot%\Microsoft.NET\Framework\v4.0.30319\regasm.exe  FMUManageCsharp.dll /unregister
+%SystemRoot%\Microsoft.NET\Framework\v4.0.30319\regasm.exe  FMUManageCsharp.dll /codebase /tlb:FMUManageCsharp.tlb
